@@ -1,5 +1,5 @@
 # JupyterNotebooks
-Python notes by me for revision
+Python notes - Assignments and quick view 
 
 1. Python Basics Revised covers all the complexities of using basic commands of python.
 It helps to quickly revise such complexities for efficient programming.
